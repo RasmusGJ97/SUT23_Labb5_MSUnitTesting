@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUT23_Labb5_MSUnit_ClonedRepo", "SUT23_Labb5_MSUnit_ClonedRepo\SUT23_Labb5_MSUnit_ClonedRepo.csproj", "{2E369E55-BD70-4392-B210-B4FFCFD3DF2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group_Project_Loop_Legends_MSTest", "Group_Project_Loop_Legends_MSTest\Group_Project_Loop_Legends_MSTest.csproj", "{E628D816-41A5-4F7F-888F-1D0314B3DED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E369E55-BD70-4392-B210-B4FFCFD3DF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E369E55-BD70-4392-B210-B4FFCFD3DF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E369E55-BD70-4392-B210-B4FFCFD3DF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E369E55-BD70-4392-B210-B4FFCFD3DF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E628D816-41A5-4F7F-888F-1D0314B3DED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E628D816-41A5-4F7F-888F-1D0314B3DED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E628D816-41A5-4F7F-888F-1D0314B3DED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E628D816-41A5-4F7F-888F-1D0314B3DED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5FA0B3-127E-4FAC-8FA7-C56AA1326AE7}
+	EndGlobalSection
+EndGlobal
